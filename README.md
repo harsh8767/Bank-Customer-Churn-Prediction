@@ -104,7 +104,7 @@ Bank-Customer-Churn-Prediction/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/Bank-Customer-Churn-Prediction.git
+git clone https://github.com/harsh8767/Bank-Customer-Churn-Prediction.git
 ```
 
 2. Navigate to the project folder.
